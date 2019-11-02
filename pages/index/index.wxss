@@ -1,0 +1,79 @@
+/**index.wxss**/
+
+@import'/public/style/ff.wxss';
+.swiper-image {
+    width: 100%;
+}
+
+.list_1 {
+    height: 240rpx;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20rpx;
+}
+
+.inco {
+    width: 100rpx;
+    height: 100rpx;
+}
+
+.list_1 view {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.text {
+    font-size: 14px;
+}
+
+.list_3 {
+    margin-top: 20rpx;
+    background-color: #fff;
+}
+
+.list_3_1 {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 25rpx;
+}
+
+.image_1 {
+    width: 330rpx;
+    height: 186rpx;
+    padding: 0 25rpx;
+}
+
+.list_3_2 {
+    padding-top: 20rpx;
+    display: flex;
+}
+
+.text_1 {
+    font-size: 13px;
+    color: #8B8989;
+}
+
+.text_2 {
+    font-size: 12px;
+    color: #8B8989;
+}
+
+.text_3 {
+    font-size: 12px;
+    color: red;
+    padding-right: 30rpx;
+}
+
+.list_3_3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.list_3_4 {
+    display: flex;
+    justify-content: space-between;
+}

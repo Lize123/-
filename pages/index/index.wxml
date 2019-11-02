@@ -1,0 +1,46 @@
+    <import src="/public/tmpl/list.wxml" />
+    <view class="list">
+        <swiper indicator-dots="{{true}}" autoplay="{{true}}" interval="{{5000}}" duration="{{500}}" indicator-color="rgba(255,250,250)" indicator-active-color="#EE5C42"	
+        > 
+                <swiper-item>
+                    <image class="swiper-image" src="https://attachment-center.boxuegu.com/data/picture/online/2019/10/24/19/15f453eb41ab4cb783dca5ccbd3d3f03.jpg" />
+                </swiper-item>
+                <swiper-item>
+                    <image class="swiper-image" src="https://attachment-center.boxuegu.com/data/picture/online/2019/08/28/18/410fffd082c44c1cbdbe7ee06cf521cb.jpg" />
+                </swiper-item>
+                <swiper-item>
+                    <image class="swiper-image" src="https://attachment-center.boxuegu.com/data/picture/online/2019/10/24/19/727b801043714688aadc6e99bc393280.jpg" />
+                </swiper-item>
+        </swiper>
+    </view>
+    <view class="list_1">
+        <view class="list_2" hover-class="none" hover-stop-propagation="false">
+            <image class="inco" src="https://m.boxuegu.com/web/images/index/course.png"></image>
+            <text class="text">就业课</text>
+        </view>
+        <view class="list_2" hover-class="none" hover-stop-propagation="false">
+            <image class="inco" src="https://m.boxuegu.com/web/images/index/mircoCourse.png"></image>
+            <text class="text">提升课</text>
+        </view>
+        <view class="list_2" hover-class="none" hover-stop-propagation="false">
+            <image class="inco" src="https://m.boxuegu.com/web/images/index/freeMicroCourse.png"></image>
+            <text class="text">免费课</text>
+        </view>
+        <view class="list_2" hover-class="none" hover-stop-propagation="false">
+            <image class="inco" src="https://m.boxuegu.com/web/images/index/courseType.png"></image>
+            <text class="text">课程分类</text>
+        </view>
+    </view>
+
+    <!-- dsadsadsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa-->
+    <view class="list_3" >
+      <view class="list_3_1">
+          <view >就业课</view>
+          <view >更多</view>
+      </view>
+     <block wx:for="{{[1,2,3,4]}}" wx:key="key">
+         <template is="list" />
+     </block>
+    </view>
+
+

@@ -1,0 +1,34 @@
+{
+    "pages": [
+        "pages/one/one",
+        "pages/index/index",
+        "pages/logs/logs"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarBackgroundColor": "#fff",
+        "navigationBarTitleText": "微信小程序开发",
+        "navigationBarTextStyle": "black"
+    },
+    "tabBar": {
+        "color": "#333333",
+        "selectedColor": "",
+        "backgroundColor": "",
+        "position": "bottom",
+        "borderStyle": "black",
+        "list": [{
+                "pagePath": "pages/index/index",
+                "text": "首页",
+                "iconPath": "",
+                "selectedIconPath": ""
+            },
+            {
+                "pagePath": "pages/one/one",
+                "text": "个人中心",
+                "iconPath": "",
+                "selectedIconPath": ""
+            }
+        ]
+    },
+    "sitemapLocation": "sitemap.json"
+}

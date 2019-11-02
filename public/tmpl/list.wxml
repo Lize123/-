@@ -1,0 +1,15 @@
+<template name="list">
+ <view class="list_3_2">
+          <view >
+              <image class="image_1" src="https://file.boxuegu.com/f6c878722f394a7c9bd12c0319f00037.png"></image>
+          </view>
+          <view class="list_3_3">
+              <view >JaveEE</view>
+              <view class="text_1">jave是一个开放的，基于标准的平台</view>
+              <view class="list_3_4">
+                  <view class="text_2">17400人学习</view>
+                  <view class="text_3">￥19800.00</view>
+              </view>
+          </view> 
+      </view>
+</template>

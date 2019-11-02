@@ -1,0 +1,33 @@
+@font-face {
+    font-family: "iconfont";
+    src: url('//at.alicdn.com/t/font_1489438_v18xp3t8x9.eot?t=1572694255298');
+    /* IE9 */
+    src: url('//at.alicdn.com/t/font_1489438_v18xp3t8x9.eot?t=1572694255298#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANMAAsAAAAACGwAAAMAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDGgqEHIMwATYCJAMUCwwABCAFhG0HTRspB8gekiQliiRQiBIqGQYA8fD8XPnnJi+ZNEug2ipESSgB0QHOyiJ7lq2vMGhbB/z11/N/a+2fSohDP4+XMEun/ldsltlBtYllQhUtgUeIeOYRiX8c83klns9mc8kKKxpgxfluYN02GtlGP0qQ/zB25UVcJlAbKca2eHK+AF6JMSsQR2SxC96UXZJYqBLKko1J3FSoskvZO+CG//r4Tya8ZIqcsXDFvokBDP+q/2rlzVbTFldpaDwt2DZyTAISsalUv4Yj9E/iUCt+p3FgXaOCX61Wi191VynW+g8vk0tEyUhuB/MhL50TwyYR/GqQyPjVlMlPlAGZL+MvC1BjOPAUeDPyEgq1UiPa65QcikWB/BSy3SWp0dZzRdmsuy9HY0gd+gLK3sbuK4xkndvs/Cpv2WfnKnrTfdvZQNcVqVl3Xo5iKHjOxoA6OrTjUsblNot5OaqlS2c1YgGxS7jfb22Ofh5tRXSPRy/cdmMiy2deZnQnDDvp6+ko+sX0+r3+ZKe1v+6YXqUhbxoU+txPsvP4fuT+9Wjk6NW5wGn4jI3pF+NlZkbHPYEB1hDzZdTLKP3ZYYcRQICWEbyY5M1fe5v2r0+G2pHZ/1eBBD7//vvsdolUMlozfmS/pNUicZahKJLMU8uKzxIozOEHGWqgasHmXh/jCAdaewlVisEg0zACcpVRiISZBIU2s6BUmQe1iaa2t+nDOEQahgkOAYRuN5Dp9BZy3d4QCfMOhUF/UOoOB9TWRd+BbcaE7F/EsMtxQHqrRO5TQ7BU3B+k5lBc1LosyfKxJWSW7CLpRCobmkID2RhLrCUxw7lABEZ1MgmuQ02jxGRUwT5PSJyb2WRSKHtQok918FuEQV0cGiB6VhGyPsoguJU5f+75OUi0SNPFagoq5CWIsciDE2kJqRaIKb7RquBa7rEsEWVwnIAQMJSOmARapJl+ijDLxylQH5cg9fCaspKonNCWn5hfqD9joYdYxFhdRBZ5pCiiVJ0wefv04+0nB949tB/bvXtlGsgAAA==') format('woff2'), url('//at.alicdn.com/t/font_1489438_v18xp3t8x9.woff?t=1572694255298') format('woff'), url('//at.alicdn.com/t/font_1489438_v18xp3t8x9.ttf?t=1572694255298') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('//at.alicdn.com/t/font_1489438_v18xp3t8x9.svg?t=1572694255298#iconfont') format('svg');
+    /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-ppt_icon:before {
+    content: "\e65b";
+}
+
+.icon-wd:before {
+    content: "\e65c";
+}
+
+.icon-doc_icon:before {
+    content: "\e65d";
+}
+
+.icon-eio_icon:before {
+    content: "\e65e";
+}
